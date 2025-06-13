@@ -1,2 +1,1 @@
-# prob-dist-main
-Probability and Probability Distributions
+# Probability and Probability Distributions
